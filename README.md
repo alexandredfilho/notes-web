@@ -18,6 +18,8 @@ The frontend uses the base URL `http://localhost:3000/api/v1` (see `src/core/api
 ```bash
 npm run typecheck
 ```
+<img width="960" height="271" alt="Screenshot from 2026-02-11 19-57-34" src="https://github.com/user-attachments/assets/3c71aa4f-6639-4f61-a465-51441c1ab9db" />
+
 
 ## Features
 - Create, list, update and delete notes
