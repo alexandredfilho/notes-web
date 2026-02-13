@@ -38,6 +38,8 @@ Checks executed in CI:
 - `npm ci`
 - `npm test`
 - `npm run typecheck`
+<img width="1916" height="497" alt="image" src="https://github.com/user-attachments/assets/a1c652b7-8022-4ede-8e7f-3f908ad14aed" />
+
 
 ## Features
 - Create, list, update and delete notes
