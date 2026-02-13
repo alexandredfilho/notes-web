@@ -25,6 +25,8 @@ npm run typecheck
 ```bash
 npm test
 ```
+<img width="796" height="330" alt="Screenshot from 2026-02-12 22-02-29" src="https://github.com/user-attachments/assets/b78bc321-1c95-4407-8397-eaf249682914" />
+
 
 ## Features
 - Create, list, update and delete notes
