@@ -38,6 +38,7 @@ Checks executed in CI:
 - `npm ci`
 - `npm test`
 - `npm run typecheck`
+<img width="1916" height="497" alt="image" src="https://github.com/user-attachments/assets/6f76aa7e-7e20-4c75-8eb1-99be1075ee45" />
 <img width="1916" height="497" alt="image" src="https://github.com/user-attachments/assets/a1c652b7-8022-4ede-8e7f-3f908ad14aed" />
 
 
